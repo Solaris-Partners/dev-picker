@@ -2,7 +2,7 @@
 
 A simple interactive folder picker for your dev directory. Type `dev` in your terminal and use arrow keys to select a project.
 
-![demo](https://github.com/user-attachments/assets/placeholder-add-your-gif-here)
+![demo](demo.png)
 
 ## Features
 
